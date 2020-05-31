@@ -44,13 +44,13 @@ One year or two year contract, Tenure and Tech support decrease churn rate.
 
 Month to month contract, high monthly charges, bad fiber optic internet service increase churn rate.
 
-   The feature importances of the random forest model
+   Image 1: The feature importances of the random forest model
 
 
 <img src="img/1_rf_feat_imp.png" >
 
 
-   The coefficients of the SCDClassifier Model
+   Image 2: The coefficients of the SCDClassifier Model
             
 <img src="img/6_SCD_coef.png" >
 
@@ -70,13 +70,13 @@ Invest on internet quality and coverage. Check the coverage and internet speed o
 
 Make offers to tenure customers to increase loyalty and keep them engaged.
 
-   Churn countplot of the tenure of the customers
+   Image 3: Churn countplot of the tenure of the customers
 
 <img src="img/5_tenure.png" >
 
 Make offers to month to month customers and make yearly contract.
 
-   Churn countplot of the contract of the customers
+   Image 4: Churn countplot of the contract of the customers
 
 <img src="img/4_contract.png" >
 
